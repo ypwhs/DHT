@@ -16,8 +16,9 @@
 
 ### Android
 
-[DHTClient](DHTClient)
-[MainActivity.java](DHTClient/app/src/main/java/com/yangpeiwen/dhtclient/MainActivity.java)
+工程：[DHTClient](DHTClient)
+
+主要代码：[MainActivity.java](DHTClient/app/src/main/java/com/yangpeiwen/dhtclient/MainActivity.java)
 
 ## 实物展示
 
