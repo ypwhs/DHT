@@ -26,8 +26,8 @@
 
 ### 正常
 
-![正常](https://raw.githubusercontent.com/ypwhs/resources/master/Snip20160924_5.png)
+<img src="https://raw.githubusercontent.com/ypwhs/resources/master/Snip20160924_5.png" width="50%" >
 
 ### 吹气后
 
-![吹气后](https://raw.githubusercontent.com/ypwhs/resources/master/Snip20160924_6.png)
+<img src="https://raw.githubusercontent.com/ypwhs/resources/master/Snip20160924_6.png" width="50%" >
