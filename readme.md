@@ -33,3 +33,15 @@
 ### 吹气后
 
 <img src="https://raw.githubusercontent.com/ypwhs/resources/master/Snip20160924_6.png" width="50%" >
+
+## 参考资料
+
+### [DHT11-chinese.pdf](DHT11-chinese.pdf)
+
+### [Digital+humidity+and+temperature+sensor+AM2302.pdf](Digital+humidity+and+temperature+sensor+AM2302.pdf)
+
+### [Arduino DHTLib](http://playground.arduino.cc/Main/DHTLib)
+
+### [Android开发简介](https://developer.android.com/guide/index.html)
+
+### [Socket](https://developer.android.com/reference/java/net/Socket.html)
