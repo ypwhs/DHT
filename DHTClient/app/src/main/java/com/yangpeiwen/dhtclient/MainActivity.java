@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
                     t.start();
                 } catch (Exception e) {
                     show("连接失败");
-                    showtext("连接成功");
+                    showtext("连接失败");
                     e.printStackTrace();
                 }
             }
