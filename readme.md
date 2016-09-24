@@ -22,6 +22,8 @@
 
 主要代码：[MainActivity.java](DHTClient/app/src/main/java/com/yangpeiwen/dhtclient/MainActivity.java)
 
+在线安装：[dht.apk](https://github.com/ypwhs/resources/raw/master/dht.apk)
+
 ## 实物展示
 
 ![实物](https://raw.githubusercontent.com/ypwhs/resources/master/IMG_0857.jpg)
