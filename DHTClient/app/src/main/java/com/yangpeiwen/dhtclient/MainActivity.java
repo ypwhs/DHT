@@ -89,6 +89,7 @@ public class MainActivity extends AppCompatActivity {
     InputStream inputStream;
     public void connect(View v){
         String wifi = getWiFiName();
+        wifi = wifi.replace("\"", "");
         if(wifi == null){
             show("请连接" + getString(R.string.wifi));
         }else if(!wifi.equals(getString(R.string.wifi))){
